@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+}
+body { 
+    min-width: 320px;
+    overflow-x: hidden;
+    font-family: 'Gilroy-Bold', sans-serif;
+}
+.container {
+    width: 375px;
+    margin: 0px auto;
+}
